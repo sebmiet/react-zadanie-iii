@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-zadanie-iii/static/css/main.906b31c4.chunk.css",
+    "main.js": "/react-zadanie-iii/static/js/main.fd98c775.chunk.js",
+    "main.js.map": "/react-zadanie-iii/static/js/main.fd98c775.chunk.js.map",
+    "runtime-main.js": "/react-zadanie-iii/static/js/runtime-main.45d3aad6.js",
+    "runtime-main.js.map": "/react-zadanie-iii/static/js/runtime-main.45d3aad6.js.map",
+    "static/js/2.53c8add5.chunk.js": "/react-zadanie-iii/static/js/2.53c8add5.chunk.js",
+    "static/js/2.53c8add5.chunk.js.map": "/react-zadanie-iii/static/js/2.53c8add5.chunk.js.map",
+    "static/js/3.f1fd720e.chunk.js": "/react-zadanie-iii/static/js/3.f1fd720e.chunk.js",
+    "static/js/3.f1fd720e.chunk.js.map": "/react-zadanie-iii/static/js/3.f1fd720e.chunk.js.map",
+    "index.html": "/react-zadanie-iii/index.html",
+    "static/css/main.906b31c4.chunk.css.map": "/react-zadanie-iii/static/css/main.906b31c4.chunk.css.map",
+    "static/js/2.53c8add5.chunk.js.LICENSE.txt": "/react-zadanie-iii/static/js/2.53c8add5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45d3aad6.js",
+    "static/js/2.53c8add5.chunk.js",
+    "static/css/main.906b31c4.chunk.css",
+    "static/js/main.fd98c775.chunk.js"
+  ]
+}
